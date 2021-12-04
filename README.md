@@ -1,7 +1,7 @@
 <h1 align = "center"> Olá 👋, Eu sou Edgard Schmitz </h1>
 <h3 align = "center"> Sou um estudante que irá revolucionar o mundo ... </h3>
  
- <img src="https://assets4.lottiefiles.com/packages/lf20_kzfpndct.json" alt="bicicleta">
+ <img src="https://www.pngwing.com/pt/free-png-ninyx" alt="bicicleta">
 
 <p align = "left"> <img src = "https://komarev.com/ghpvc/?username=edgardschmitz&label=Profile%20views&color=0e75b6&style=flat" alt = "edgardschmitz" /> </p>
 
