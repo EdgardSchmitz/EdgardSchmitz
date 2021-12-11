@@ -1,7 +1,7 @@
 <h1 align = "center"> Olá 👋, Eu sou Edgard Schmitz </h1>
 <h3 align = "center"> Sou um estudante que irá revolucionar o mundo ... </h3>
  
-<img src="http>s://pt.pngtree.com/freepng/sunrise-in-space_3591477.html>
+<img src="https://img1.gratispng.com/20180614/brr/kisspng-santa-claus-christmas-get-santa-gift-clip-art-escut-de-santa-oliva-5b22a61c3fabe4.7323965115289974042608.jpg">
 
 <p align = "left"> <img src = "https://komarev.com/ghpvc/?username=edgardschmitz&label=Profile%20views&color=0e75b6&style=flat" alt = "edgardschmitz" /> </p>
 
