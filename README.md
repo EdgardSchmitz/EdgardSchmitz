@@ -26,7 +26,7 @@
 
 <h3 align =" left "> Idiomas: Inglês, Espanhol e Português</h3>
 <h3 align ="center"> Ferramentas<h3>
-<p align = "center"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src = "https://raw.githubusercontent.com/devicons/devicon /master/icons/css3/css3-original-wordmark.svg "alt =" css3 "width =" 40 "height =" 40 "/> </a> <a href =" https://www.w3.org / html / "target =" _ blank "> <img src ="https://icons.iconarchive.com/icons/cornmanthe3rd/plex/32/Other-html-5-icon.png"alt =" html5 "width = "40" height = "40" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src = "https://icons.iconarchive.com/icons/graphics-vibe/developer/24/javascript-icon.png "alt =" javascript "width =" 40 "height =" 40 "/> </a> </p>
+<p align = "center"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src = "https://raw.githubusercontent.com/devicons/devicon /master/icons/css3/css3-original-wordmark.svg "alt =" css3 "width =" 40 "height =" 40 "/> </a> <a href =" https://www.w3.org / html / "target =" _ blank "> <img src ="https://icons.iconarchive.com/icons/cornmanthe3rd/plex/32/Other-html-5-icon.png"alt =" html5 "width = "40" height = "40" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src = "https://icons.iconarchive.com/icons/graphics-vibe/developer/32/javascript-icon.png"alt =" javascript "width =" 40 "height =" 40 "/> </a> </p>
 
 
 
