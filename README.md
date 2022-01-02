@@ -1,9 +1,9 @@
 <h1 align = "center"> Olá 👋, Eu sou Edgard Schmitz </h1>
 <h3 align = "center"> Sou um estudante que irá revolucionar o mundo ... </h3>
  
-<p align = "center" <img src="https://cdn.pixabay.com/photo/2016/09/08/04/12/programmer-1653351_960_720.png"></p>
+<p align = "center"> <img src="https://cdn.pixabay.com/photo/2016/09/08/04/12/programmer-1653351_960_720.png"></p>
 
-<p align = "left"> <img src = "https://komarev.com/ghpvc/?username=edgardschmitz&label=Profile%20views&color=0e75b6&style=flat" alt = "edgardschmitz" /> </p>
+<p align = "center"> <img src = "https://komarev.com/ghpvc/?username=edgardschmitz&label=Profile%20views&color=0e75b6&style=flat" alt = "edgardschmitz" /> </p>
 
 - 🔭 Atualmente estou trabalhando ** na empresa Momentum * *
 
@@ -25,7 +25,7 @@
 </p>
 
 <h3 align =" left "> Idiomas e Ferramentas: Inglês, Espanhol e Português</h3>
-<p align = "center"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src = "https://raw.githubusercontent.com/devicons/devicon /master/icons/css3/css3-original-wordmark.svg "alt =" css3 "width =" 40 "height =" 40 "/> </a> <a href =" https://www.w3.org / html / "target =" _ blank "> <img src =" https://cdn-icons-png.flaticon.com/512/5968/5968267.png "alt =" html5 "width = "40" height = "40" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src = " https: //raw.githubusercontent.com / devicons / devicon / master / icons / javascript / javascript-original.svg "alt =" javascript "width =" 40 "height =" 40 "/> </a> </p>
+<p align = "center"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src = "https://raw.githubusercontent.com/devicons/devicon /master/icons/css3/css3-original-wordmark.svg "alt =" css3 "width =" 40 "height =" 40 "/> </a> <a href =" https://www.w3.org / html / "target =" _ blank "> <img src ="https://icons.iconarchive.com/icons/cornmanthe3rd/plex/32/Other-html-5-icon.png"alt =" html5 "width = "40" height = "40" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src = " https: //raw.githubusercontent.com / devicons / devicon / master / icons / javascript / javascript-original.svg "alt =" javascript "width =" 40 "height =" 40 "/> </a> </p>
 
 
 
