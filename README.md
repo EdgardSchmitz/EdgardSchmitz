@@ -1,7 +1,7 @@
 <h1 align = "center"> Olá 👋, Eu sou Edgard Schmitz </h1>
 <h3 align = "center"> Sou um estudante que irá revolucionar o mundo ... </h3>
  
-<p align = "center" img src="https://assets7.lottiefiles.com/packages/lf20_mlp3zxve.json"></p>
+<p align = "center" <img src="https://assets7.lottiefiles.com/packages/lf20_mlp3zxve.json"></p>
 
 <p align = "left"> <img src = "https://komarev.com/ghpvc/?username=edgardschmitz&label=Profile%20views&color=0e75b6&style=flat" alt = "edgardschmitz" /> </p>
 
@@ -13,7 +13,7 @@
 
 - 🤝 Estou procurando ajuda ** no conhecimento de programação **
 
-- 💬 Sobre mim ** sou um estudante de programa **
+- 💬 Sobre mim ** sou um estudante de programacao **
 
 - 📫 Entre em contato pelo e-mail: ** edgardschmitz83 @ gmail.com **
 
@@ -31,6 +31,6 @@
 
 <p> <img align = "left" src = "https://github-readme-stats.vercel.app/api/top-langs?username=edgardschmitz&show_icons=true&locale=en&layout=compact" alt = "edgardschmitz" /> </p>
 
-<p> & nbsp; <img align = "center" src = "https://github-readme-stats.vercel.app/api?username=edgardschmitz&show_icons=true&locale=en" alt = "edgardschmitz" /> </p>
+<p><img align = "center" src = "https://github-readme-stats.vercel.app/api?username=edgardschmitz&show_icons=true&locale=en" alt = "edgardschmitz" /> </p>
 
 <p> <img align = "center" src = "https://github-readme-streak-stats.herokuapp.com/?user=edgardschmitz&" alt = "edgardschmitz" /> </p>
