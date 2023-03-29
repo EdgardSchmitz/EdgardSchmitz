@@ -35,3 +35,6 @@
 <p align = "center"><img  src = "https://github-readme-stats.vercel.app/api?username=edgardschmitz&show_icons=true&locale=en" alt = "edgardschmitz" /> </p>
 
 <p align = "center"> <img  src = "https://github-readme-streak-stats.herokuapp.com/?user=edgardschmitz&" alt = "edgardschmitz" /> </p>
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=EdgardSchmitz&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EdgardSchmitz&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EdgardSchmitz&theme=nord_dark) |
+| :-: | :-: | :-: |
